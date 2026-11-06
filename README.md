@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Lua-0b0b0d?style=for-the-badge&logo=lua&logoColor=ffb04a" alt="Lua">
-  <img src="https://img.shields.io/badge/Svelte-0b0b0d?style=for-the-badge&logo=svelte&logoColor=ffb04a" alt="Svelte">
-  <img src="https://img.shields.io/badge/JavaScript-0b0b0d?style=for-the-badge&logo=javascript&logoColor=ffb04a" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-0b0b0d?style=for-the-badge&logo=nodedotjs&logoColor=ffb04a" alt="Node.js">
-  <img src="https://img.shields.io/badge/PostgreSQL-0b0b0d?style=for-the-badge&logo=postgresql&logoColor=ffb04a" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Vite-0b0b0d?style=for-the-badge&logo=vite&logoColor=ffb04a" alt="Vite">
-  <img src="https://img.shields.io/badge/Linux-0b0b0d?style=for-the-badge&logo=linux&logoColor=ffb04a" alt="Linux">
-  <img src="https://img.shields.io/badge/Cloudflare-0b0b0d?style=for-the-badge&logo=cloudflare&logoColor=ffb04a" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/Lua-0e0e0e?style=for-the-badge&logo=lua&logoColor=00aaff" alt="Lua">
+  <img src="https://img.shields.io/badge/Svelte-0e0e0e?style=for-the-badge&logo=svelte&logoColor=00aaff" alt="Svelte">
+  <img src="https://img.shields.io/badge/JavaScript-0e0e0e?style=for-the-badge&logo=javascript&logoColor=00aaff" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-0e0e0e?style=for-the-badge&logo=nodedotjs&logoColor=00aaff" alt="Node.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-0e0e0e?style=for-the-badge&logo=postgresql&logoColor=00aaff" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Vite-0e0e0e?style=for-the-badge&logo=vite&logoColor=00aaff" alt="Vite">
+  <img src="https://img.shields.io/badge/Linux-0e0e0e?style=for-the-badge&logo=linux&logoColor=00aaff" alt="Linux">
+  <img src="https://img.shields.io/badge/Cloudflare-0e0e0e?style=for-the-badge&logo=cloudflare&logoColor=00aaff" alt="Cloudflare">
 </p>
 
 ### About
