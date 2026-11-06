@@ -36,4 +36,10 @@ I build FiveM servers from the ground up: the core framework, every gameplay mod
 | Ops | Linux, nginx, Cloudflare, tmux, custom anti-dump gateway |
 | Quality | StyLua, selene, LuaLS, `resmon` and profiler budgets |
 
+### Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lxnte/lxnte/output/snake.svg" alt="Contribution snake" width="100%">
+</p>
+
 <p align="center"><sub>Romania · FiveM · always building</sub></p>
