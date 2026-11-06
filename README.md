@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/Cloudflare-0e0e0e?style=for-the-badge&logo=cloudflare&logoColor=00aaff" alt="Cloudflare">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-@777.lxnte-0e0e0e?style=for-the-badge&logo=discord&logoColor=00aaff&labelColor=0e0e0e&color=00aaff" alt="Discord @777.lxnte">
+</p>
+
 ### About
 
 I build FiveM servers from the ground up: the core framework, every gameplay module, the in-game interface and the infrastructure behind it.
